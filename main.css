@@ -1,0 +1,43 @@
+	/* top image, bar and menu items */
+	img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		}
+	a:link {
+		color: navy;
+		font-family: 'Comic Sans MS', sans-serif;
+		font-size: 20px;
+		text-decoration: none;
+		}
+	a:hover {
+		text-decoration: none;
+		color: #ff9900;
+		font-weight: bold;
+		}
+
+	/* individual product pages */
+	p.proddesc {
+		font-family: 'Arial';
+		color: black;
+		font-size: 14px;
+		text-align: left;
+		}
+	p.prodname {
+		font-family: 'Arial';
+		color: black;
+		font-size: 30px;
+		}
+
+	/* product main page */
+	table.prodlist {
+		width: 75%;
+		}
+	td.prodlist {
+		text-align: center;
+		height: 50px;
+		vertical-align: center;
+		color: navy;
+		font-family: 'Comic Sans MS', sans-serif;
+		font-size: 20px;
+		}
