@@ -1,8 +1,8 @@
 # Sr-Project
 
 Delpoyment Steps:
-Download Github Desktop
-Open Repository in Githib Desktop
+* Download Github Desktop
+* Open Repository in Githib Desktop
 * Go to 'Open folder' in Visual Studio Code
 * Goto downloaded folder
 * Open Folder using VS CODE
