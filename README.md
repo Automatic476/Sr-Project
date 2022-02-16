@@ -2,7 +2,10 @@
 
 Delpoyment Steps:
 * Download Github Desktop
+* Sign In
+* File > New Repository > Choose Local Path
 * Open Repository in Githib Desktop
+* Click Open in Visual Studio Code
 * Go to 'Open folder' in Visual Studio Code
 * Goto downloaded folder
 * Open Folder using VS CODE
